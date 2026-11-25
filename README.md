@@ -10,9 +10,7 @@
 
 ## About Me
 
-I'm a Senior AI Full Stack Engineer with **8+ years** of experience designing and shipping AI-powered applications, enterprise platforms, and cloud-native SaaS products across healthcare, fintech, e-commerce, and mobility.
-
-My focus is on combining **Generative AI / LLMs** with production-grade full-stack engineering — turning RAG pipelines, AI copilots, and knowledge platforms into real software that enterprise teams actually use every day. I'm equally comfortable architecting a microservices backend as I am tuning a retrieval pipeline or shipping the React front end on top of it.
+Senior software engineer with nearly 8 years of experience building backend and full-stack applications, integrating AI capabilities, and evaluating complex technical systems. Recent work has focused on LLM training and annotation, model response and code evaluation, rubric and benchmark development, agent trajectory assessment, LLM API integration, and retrieval-augmented generation (RAG). Combines this AI experience with hands-on engineering across Python, Java, Spring Boot, TypeScript, React, Next.js, Node.js, REST APIs, microservices, relational and NoSQL databases, AWS, and containerized delivery. Experienced in turning product and operational requirements into tested services, integrations, and reliable application workflows.
 # ⚔️ All Of My Skills
 
 <div align="center">
